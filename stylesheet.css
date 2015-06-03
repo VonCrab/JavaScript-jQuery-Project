@@ -1,0 +1,23 @@
+.x-row {
+  clear: both;
+  height: 100px;
+  max-width: 408px;
+  margin: auto;
+}
+
+.grid-square {
+  display: inline-block;
+  width: 24%;
+  height: 100%;
+  border: 1px;
+  border-style: solid;
+  border-color: #000;
+}
+
+.active {
+  background-color: #00ff00;
+}
+
+.trail {
+  background-color: #559955;
+}
